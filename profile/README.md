@@ -7,7 +7,7 @@ We develop methods and tools to recover full-body pose and shape from diverse in
 
 ## News
 
-- [2025-10-21] [SMPLest-X](https://github.com/SMPLCap/SMPLest-X) accepted to T-PAMI
+- [2025-10-21] [SMPLest-X](https://github.com/SMPLCap/SMPLest-X) accepted to TPAMI
 - [2025-05-15] Release of [ADHMR](https://github.com/SMPLCap/ADHMR) (ICML'25)
 - [2025-04-11] Projects and homepage updated
 - [2025-04-10] 🚀🚀🚀Announcing the launch of SMPLCap 🚀🚀🚀
@@ -15,7 +15,7 @@ We develop methods and tools to recover full-body pose and shape from diverse in
 ## Our projects
 
 #### Foundation Models
-- [SMPL-X] [T-PAMI'25] [SMPLest-X](https://github.com/SMPLCap/SMPLest-X): An extended version of [SMPLer-X](https://github.com/SMPLCap/SMPLer-X) with stronger foundation models.
+- [SMPL-X] [TPAMI'25] [SMPLest-X](https://github.com/SMPLCap/SMPLest-X): An extended version of [SMPLer-X](https://github.com/SMPLCap/SMPLer-X) with stronger foundation models.
 - [SMPL-X] [NeurIPS'23] [SMPLer-X](https://github.com/SMPLCap/SMPLer-X): Scaling up EHPS towards a family of generalist foundation models.
 - [SMPL] [NeurIPS'22] [HMR-Benchmarks](https://github.com/SMPLCap/hmr-benchmarks): A comprehensive benchmark of HPS datasets, backbones, and training strategies.
 
