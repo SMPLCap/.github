@@ -7,6 +7,7 @@ We develop methods and tools to recover full-body pose and shape from diverse in
 
 ## News
 
+- [2026-01-07] [PointHPS](https://github.com/SMPLCap/PointHPS) accepted to IJCV
 - [2025-10-21] [SMPLest-X](https://github.com/SMPLCap/SMPLest-X) accepted to TPAMI
 - [2025-05-15] Release of [ADHMR](https://github.com/SMPLCap/ADHMR) (ICML'25)
 - [2025-04-11] Projects and homepage updated
@@ -33,7 +34,7 @@ whole-body pose and shape estimation.
 - [SMPL] [ICCV'23] [Zolly](https://github.com/SMPLCap/Zolly): 3D human mesh reconstruction from perspective-distorted images.
 
 #### Point Cloud
-- [SMPL] [arXiv'23] [PointHPS](https://github.com/SMPLCap/PointHPS): 3D HPS from point clouds captured in real-world settings.
+- [SMPL] [IJCV'26] [PointHPS](https://github.com/SMPLCap/PointHPS): 3D HPS from point clouds captured in real-world settings.
 
 #### Alignment
 - [SMPL-X] [ICML'25] [ADHMR](https://github.com/SMPLCap/ADHMR): A framework to align diffusion-based human mesh recovery methods via direct preference optimization.
