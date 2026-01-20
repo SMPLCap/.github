@@ -31,15 +31,15 @@ By bridging motion data, capture, and generation through shared representations 
 
 
 ### Motion Generation
-- [SMPL-X][ArXiv'25] [ViMoGen](https://github.com/MotrixLab/ViMoGen): A comprehensive framework that transfers knowledge from ViGen to MoGen across data, modeling, and evaluation.
-- [SMPL-X][ECCV'24] [LMM](https://github.com/MotrixLab/LMM): Large Motion Model for Unified Multi-Modal Motion Generation.
-- [SMPL-X][NeurIPS'23] [FineMoGen](https://github.com/MotrixLab/FineMoGen): Fine-Grained Spatio-Temporal Motion Generation and Editing.
-- [SMPL][ICCV'23] [ReMoDiffuse](https://github.com/MotrixLab/ReMoDiffuse): Retrieval-Augmented Motion Diffusion Model.
-- [SMPL][TPAMI'24] [MotionDiffuse](https://github.com/MotrixLab/MotionDiffuse): Text-Driven Human Motion Generation with Diffusion Model.
+- [SMPL-X] [ArXiv'25] [ViMoGen](https://github.com/MotrixLab/ViMoGen): A comprehensive framework that transfers knowledge from ViGen to MoGen across data, modeling, and evaluation.
+- [SMPL-X] [ECCV'24] [LMM](https://github.com/MotrixLab/LMM): Large Motion Model for Unified Multi-Modal Motion Generation.
+- [SMPL-X] [NeurIPS'23] [FineMoGen](https://github.com/MotrixLab/FineMoGen): Fine-Grained Spatio-Temporal Motion Generation and Editing.
+- [SMPL] [ICCV'23] [ReMoDiffuse](https://github.com/MotrixLab/ReMoDiffuse): Retrieval-Augmented Motion Diffusion Model.
+- [SMPL] [TPAMI'24] [MotionDiffuse](https://github.com/MotrixLab/MotionDiffuse): Text-Driven Human Motion Generation with Diffusion Model.
 
 ### Motion Dataset
-- [SMPL][ECCV'22] [HuMMan](https://github.com/MotrixLab/humman_toolbox): Toolbox for HuMMan, a large-scale multi-modal 4D human dataset.
-- [SMPLX][T-PAMI'24] [GTA-Human](https://github.com/MotrixLab/gta-human_toolbox): Toolbox for GTA-Human, a large-scale 3D human dataset generated with the GTA-V game engine.
+- [SMPL] [ECCV'22] [HuMMan](https://github.com/MotrixLab/humman_toolbox): Toolbox for HuMMan, a large-scale multi-modal 4D human dataset.
+- [SMPLX] [T-PAMI'24] [GTA-Human](https://github.com/MotrixLab/gta-human_toolbox): Toolbox for GTA-Human, a large-scale 3D human dataset generated with the GTA-V game engine.
 
 ## Contact
 
